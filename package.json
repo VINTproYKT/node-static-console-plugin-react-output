@@ -1,0 +1,41 @@
+{
+  "author": {
+    "email": "vintproykt@gmail.com",
+    "name": "Rodion Borisov"
+  },
+  "bugs": {
+    "url": "https://github.com/VINTproYKT/node-static-console-plugin-react-output/issues"
+  },
+  "dependencies": {
+    "static-console": "latest",
+    "react": "^15.0.0"
+  },
+  "description": "Plugin for printing your `static-console` messages in more declarative way using React.",
+  "homepage": "https://github.com/VINTproYKT/node-static-console-plugin-react-output#readme",
+  "keywords": [
+    "plugin",
+    "output",
+    "console",
+    "react",
+    "dom",
+    "document",
+    "html",
+    "log",
+    "nodes",
+    "message"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "vintproykt@gmail.com",
+      "name": "vintproykt"
+    }
+  ],
+  "name": "static-console-plugin-react-output",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINTproYKT/node-static-console-plugin-react-output.git"
+  },
+  "version": "1.0.0"
+}
